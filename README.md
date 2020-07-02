@@ -1,5 +1,5 @@
 # Hello_World
-Training repository
+
 Hi everyone!
 
 I'm learning GitHub. I hope it will be fun.
